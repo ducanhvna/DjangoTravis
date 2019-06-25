@@ -112,3 +112,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+polls/migrations/0001_initial.py
